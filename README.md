@@ -1,6 +1,6 @@
 # Farming Made Easy Using ML - AgroGenius
 
-Download the code and Run python app.py
+Download the code and the dependencies from requirements.txt file and then Run the command - python app.py
 
 Objective & Scope
 ● Exact data about the history of harvest yield is significant for settling on choices identified with rural hazard and the executives and future expectations. In the status quo, the farmers and the consumers find it difficult in the real world to determine the accurate prices of crops without having prior knowledge of the fluctuating trend prices or weather conditions.
