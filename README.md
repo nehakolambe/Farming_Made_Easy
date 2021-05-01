@@ -1,4 +1,4 @@
-# Farming_Made_Easy
+# Farming Made Easy Using ML - AgroGenius
 
 Download the code and Run python app.py
 
